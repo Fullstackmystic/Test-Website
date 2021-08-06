@@ -1,0 +1,28 @@
+
+body{
+    background: url('web.jfif');
+}
+.navbar{
+    margin: 0%;
+    background-color: rgb(25, 189, 25);
+    border-radius: 3px;
+}
+.navbar ul{          
+    list-style: none;
+    overflow: auto;
+    margin: none;   
+}
+.navbar li{
+    float: left;
+    padding: 3px 4px;
+    margin: 2px 1px;
+}
+.navbar ul a{
+    color: white;
+    text-decoration: none;
+    margin: 2px 3px;
+    padding: 3px 2px;
+}
+.navbar ul a:hover{
+    background-color: rgb(36, 156, 72);
+}
