@@ -1,34 +1,3 @@
-/* Style for Page */
-
-body{
-    align-items: center;
-    background: url('grey.jpg');
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-
-/* First Section */
-
-#sec{
-    margin-top: 30px;
-    margin-left: 10px;
-}
-#nature{
-    color: white;
-    float: right;
-}
-#mnt{
-    height: 250px;
-    float: right;
-}
-#bird{
-    height: 275px;
-    margin-left: 30px;
-} 
-#nat-head{
-    
-}
-
 /* Navigation Bar */
 
 .navbar{
