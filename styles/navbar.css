@@ -13,6 +13,8 @@
     padding-top: 0px;
     padding-bottom: 0%;  
     align-items: center;
+    display: flex;
+    justify-content: flex-end;
 }
 .navbar li{
     float: left;
@@ -56,7 +58,7 @@
     border-radius: 3px;
 }
 #btn:hover{
-    background-color: greenyellow;
+    background-color: rgb(100, 238, 65);
     color: black;
     border-color: black;
     border-radius: 3px;
