@@ -1,0 +1,8 @@
+/* Style for Page */
+
+body{
+    align-items: center;
+    background: url('grey.jpg');
+    background-size: 1700px;
+    background-repeat: no-repeat;
+}

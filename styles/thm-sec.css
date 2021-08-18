@@ -1,0 +1,43 @@
+#sec2{
+    margin-top: 120px;
+    margin-left: 15px;
+    margin-right: 40px;
+}
+#thm-head{
+    vertical-align: middle;
+    float: right;
+    justify-self: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-right: 32px;
+}
+#second-sec{
+    vertical-align: middle;
+    float: right;
+    justify-content: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-right: 30px;
+}
+#bird{
+    float: left;
+    height: 350px;
+}
+.download{
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-left: 860px;
+}
+#dl{
+    padding: 10px 15px;
+    border-radius: 3px;
+    background-color: rgb(25, 189, 25);
+    color: white;
+    font-size: 25px;
+    border: none;
+}
+#dl:hover{
+    background-color: rgb(41, 168, 79);
+    cursor: pointer;
+}
